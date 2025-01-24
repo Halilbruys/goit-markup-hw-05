@@ -579,7 +579,7 @@ footer span {
 .privacy-policy:checked + .modal-label .privacy-check,
 .privacy-policy:checked ~ .modal-label .galka {
   border-radius: 2px;
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   border: none;
   fill: #f4f4fd;
 }
@@ -641,7 +641,7 @@ footer span {
 
 .modal-submit-btn:hover,
 .modal-submit-btn:focus {
-  background: #404bbf;
+  background: #4d5ae5;
 }
 
 .modal-icon-close {
