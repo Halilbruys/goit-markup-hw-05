@@ -380,4 +380,10 @@ footer span {
 .footer-left {
   margin-right: 120px;
 }
-
+/***********formlar************/
+.form {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background-color: #31d0aa;
+}
